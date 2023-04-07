@@ -1,0 +1,258 @@
+[
+    {
+        "poster_path": "/assets/league_of_legends.jpg",
+        "title": "League of Legends",
+        "overview": "League of Legends is a multiplayer online battle arena (MOBA) game developed and published by Riot Games. In the game, players control a champion with unique abilities and battle against a team of other players or computer-controlled champions. The objective is to destroy the opposing team's nexus, a structure located at the heart of their base, while defending their own.",
+        "genre": [
+            "MOBA",
+            "Action",
+            "Strategy"
+        ],
+        "ratings": {
+            "average": 8.6,
+            "max": 10,
+            "votes": 5384
+        }
+        },
+    {
+        "poster_path": "/assets/dota_2.jpg",
+        "title": "Dota 2",
+        "overview": "Dota 2 is a multiplayer online battle arena (MOBA) game developed and published by Valve Corporation. In the game, players control a hero with unique abilities and battle against a team of other players or computer-controlled heroes. The objective is to destroy the opposing team's Ancient, a structure located at the heart of their base, while defending their own.",
+        "genre": [
+            "MOBA",
+            "Action",
+            "Strategy"
+        ],
+        "ratings": {
+            "average": 9.2,
+            "max": 10,
+            "votes": 3421
+        }
+    },
+    {
+        
+        "poster_path": "/assets/mobile_legends.jpg",
+        "title": "Mobile Legends",
+        "overview": "Mobile Legends is a multiplayer online battle arena (MOBA) game developed and published by Moonton. In the game, players control a hero with unique abilities and battle against a team of other players or computer-controlled heroes. The objective is to destroy the opposing team's base, while defending their own.",
+        "genre": [
+            "MOBA",
+            "Action",
+            "Strategy"
+        ],
+        "ratings": {
+            "average": 8.0,
+            "max": 10,
+            "votes": 1205
+        }
+    },
+    {
+        "poster_path": "/assets/genshin_impact.jpg",
+        "title": "Genshin Impact",
+        "overview": "Genshin Impact is an action role-playing game developed and published by miHoYo. In the game, players take on the role of a traveler who explores the world of Teyvat, fighting monsters and solving puzzles along the way. The game features an open-world environment, gacha game mechanics, and multiplayer co-op gameplay.",
+        "genre": [
+            "Action",
+            "RPG",
+            "Open World"
+        ],
+        "ratings": {
+            "average": 9.0,
+            "max": 10,
+            "votes": 4500
+        }
+    },
+    {
+        "poster_path": "/assets/fornite.jpg",
+        "title": "Fortnite",
+        "overview": "Fortnite is a free-to-play battle royale game developed and published by Epic Games. In the game, up to 100 players parachute onto an island and battle against each other to be the last one standing. Players scavenge for weapons and resources, build structures, and fight against enemies or other players.",
+        "genre": [
+            "Battle Royale",
+            "Action"
+        ],
+        "ratings": {
+            "average": 8.5,
+            "max": 10,
+            "votes": 2500
+        }
+    },
+    {
+        "poster_path": "/assets/dead_by_daylight.jpg",
+        "title": "Dead by Daylight",
+        "overview": "Dead by Daylight is an asymmetrical multiplayer horror game developed by Behaviour Interactive. In the game, up to four players take on the roles of survivors, who must escape from a crazed killer controlled by another player. The game is set in various spooky locations, and the survivors must work together to fix generators and unlock exits while avoiding the killer.",
+        "genre": [
+            "Horror",
+            "Survival",
+            "Asymmetrical Multiplayer"
+        ],
+        "ratings": {
+            "average": 8.2,
+            "max": 10,
+            "votes": 1200
+        }
+    },
+    {
+        "poster_path": "/assets/overwatch.jpg",
+        "title": "Overwatch",
+        "overview": "Overwatch is a team-based multiplayer first-person shooter developed and published by Blizzard Entertainment. In the game, players choose from a diverse cast of heroes, each with their unique abilities, and work together to complete objectives and defeat the opposing team. The game features a variety of game modes, including capture the flag, payload, and control maps.",
+        "genre": [
+          "First-person Shooter",
+          "Multiplayer",
+          "Team-based"
+        ],
+        "ratings": {
+          "average": 9.1,
+          "max": 10,
+          "votes": 4000
+        }
+      },
+      {
+        "poster_path": "/assets/valorant.jpg",
+        "title": "Valorant",
+        "overview": "Valorant is a free-to-play first-person shooter game developed and published by Riot Games. In the game, players choose from a diverse cast of agents, each with their unique abilities, and compete in teams of 5v5 to complete objectives and eliminate the opposing team. The game features a variety of game modes, including spike rush, deathmatch, and competitive play.",
+        "genre": [
+          "First-person Shooter",
+          "Multiplayer",
+          "Tactical Shooter"
+        ],
+        "ratings": {
+          "average": 8.9,
+          "max": 10,
+          "votes": 3500
+        }
+      },
+      {
+        "poster_path": "/assets/wildrift.jpg",
+        "title": "League of Legends: Wild Rift",
+        "overview": "League of Legends: Wild Rift is a mobile multiplayer online battle arena (MOBA) game developed and published by Riot Games. The game is a condensed version of the popular PC game League of Legends, featuring shorter matches and streamlined controls for mobile devices. In the game, players choose from a diverse cast of champions and work together in teams to destroy the enemy nexus.",
+        "genre": [
+          "Multiplayer Online Battle Arena",
+          "MOBA",
+          "Strategy"
+        ],
+        "ratings": {
+          "average": 8.5,
+          "max": 10,
+          "votes": 2500
+        }
+      },
+      {
+        "poster_path": "/assets/counter_strike.jpg",
+        "title": "Counter-Strike: Global Offensive",
+        "overview": "Counter-Strike: Global Offensive is a first-person shooter game developed and published by Valve Corporation. The game is a multiplayer team-based shooter, in which two teams, the Terrorists and the Counter-Terrorists, compete to complete objectives or eliminate the opposing team. The game features a variety of game modes, including Competitive, Casual, and Deathmatch.",
+        "genre": [
+          "First-person Shooter",
+          "Multiplayer",
+          "Tactical Shooter"
+        ],
+        "ratings": {
+          "average": 9.2,
+          "max": 10,
+          "votes": 5000
+        }
+      },
+      {
+        "poster_path": "/assets/apex_legends.jpg",
+        "title": "Apex Legends",
+        "overview": "Apex Legends is a free-to-play battle royale game developed by Respawn Entertainment and published by Electronic Arts. The game is set in the same universe as Respawn's Titanfall franchise and features a variety of unique characters, each with their own abilities and playstyles. Players compete in teams of three to be the last squad standing, using weapons, abilities, and teamwork to survive and come out on top.",
+        "genre": [
+          "Battle Royale",
+          "First-person Shooter",
+          "Multiplayer"
+        ],
+        "ratings": {
+          "average": 8.9,
+          "max": 10,
+          "votes": 3500
+        }
+      },
+      {
+        "poster_path": "/assets/among_us.jpg",
+        "title": "Among Us",
+        "overview": "Among Us is a multiplayer party game developed by InnerSloth. The game takes place on a spaceship where players take on the roles of crew members. However, among the crew are impostors who seek to sabotage the ship and eliminate the crew. The crew must identify and vote off the impostors before it's too late. The game features simple graphics, but the real fun comes from the deception, bluffing, and teamwork that is required to win.",
+        "genre": [
+          "Party",
+          "Social Deduction",
+          "Multiplayer"
+        ],
+        "ratings": {
+          "average": 8.5,
+          "max": 10,
+          "votes": 5000
+        }
+      },
+      {
+        "poster_path": "/assets/arena_valor.jpg",
+        "title": "Arena of Valor",
+        "overview": "Arena of Valor is a multiplayer online battle arena (MOBA) game developed by Tencent Games. The game features fast-paced 5v5 battles where players must work together to destroy the enemy team's base while defending their own. Players choose from a roster of over 100 heroes, each with unique abilities and playstyles. The game has a strong competitive scene and is a popular esports title.",
+        "genre": [
+          "MOBA",
+          "Action",
+          "Multiplayer"
+        ],
+        "ratings": {
+          "average": 8.7,
+          "max": 10,
+          "votes": 2500
+        }
+      },
+      {
+        "poster_path": "/assets/freefire.jpg",
+        "title": "Free Fire",
+        "overview": "Free Fire is a battle royale game developed by Garena. The game features fast-paced 50-player matches where players must fight to be the last one standing. Players can choose from a variety of characters, each with their own unique abilities. The game has a variety of weapons and equipment that players can find and use to gain an advantage over their opponents. The game has a large and active player base and is available on mobile devices and PC.",
+        "genre": [
+          "Battle Royale",
+          "Action",
+          "Multiplayer"
+        ],
+        "ratings": {
+          "average": 7.8,
+          "max": 10,
+          "votes": 3500
+        }
+      },
+      {
+        "poster_path": "/assets/resident_evil_4.jpg",
+        "title": "Resident Evil 4",
+        "overview": "Resident Evil 4 is a survival horror game developed by Capcom. The game follows Leon S. Kennedy, a US government agent, as he attempts to rescue the President's daughter from a mysterious cult in a rural village in Spain. The game features third-person shooter gameplay with an emphasis on inventory management and puzzle-solving. The game received critical acclaim for its atmosphere, gameplay mechanics, and story.",
+        "genre": [
+          "Survival Horror",
+          "Action",
+          "Third-Person Shooter"
+        ],
+        "ratings": {
+          "average": 9.1,
+          "max": 10,
+          "votes": 4000
+        }
+      },
+      {
+        "poster_path": "/assets/call_of_duty.jpg",
+        "title": "Call of Duty",
+        "overview": "Call of Duty is a first-person shooter game franchise developed by Infinity Ward and published by Activision. The franchise is known for its realistic and intense military-themed gameplay, as well as its focus on multiplayer modes. The franchise includes numerous installments set in different time periods, including World War II, the Cold War, and modern warfare. The games also feature a variety of single-player campaigns and co-operative modes.",
+        "genre": [
+          "First-Person Shooter",
+          "Action",
+          "Multiplayer"
+        ],
+        "ratings": {
+          "average": 8.5,
+          "max": 10,
+          "votes": 5000
+        }
+      },
+      {
+        "poster_path": "/assets/rust.jpg",
+        "title": "Rust",
+        "overview": "Rust is a survival game developed and published by Facepunch Studios. Players must gather resources, build structures, and fight off hostile animals and other players to survive in a harsh and dangerous environment. The game also features a variety of social and economic systems, such as player-run shops and a reputation system.",
+        "genre": [
+          "Survival",
+          "Open World",
+          "Multiplayer"
+        ],
+        "ratings": {
+          "average": 7.5,
+          "max": 10,
+          "votes": 2500
+        }
+      }
+      
+]
